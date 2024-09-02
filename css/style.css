@@ -4,3 +4,6 @@
 @import "_vendor.css";
 @import "_global.css";
 @import "_overall.css";
+
+@import "./components/_header.css";
+@import "./components/_first.css";
